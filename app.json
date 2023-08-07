@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "memo_care",
+    "slug": "memo_care",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

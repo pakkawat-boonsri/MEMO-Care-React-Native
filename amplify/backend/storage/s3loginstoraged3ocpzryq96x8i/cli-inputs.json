@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3loginstoraged3ocpzryq96x8i",
+  "bucketName": "login-storage-d3ocpzryq96x8i",
+  "policyUUID": "3d4ee9f1",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
