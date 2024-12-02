@@ -1,5 +1,7 @@
 # MEMO Care Covid-19 Thailand Tracking Application
 
+COVID-19 Tracking implement by React-Native and Covid-19 Thailand API
+
 ## Authentication 
 <div>
   <img src = "https://github.com/user-attachments/assets/42a4910c-1f27-4541-88da-a110191cb74d" width="200"/>
